@@ -1,2 +1,2 @@
 # ltwalk2.github.io
-Hello, world! This is my personal page hosted on GitHub pages.
+Welcome to Lucas's public GitHub repository listing. This page lives to document all of my developed repositories (working and finalized). Please follow the links below to view. Below that is a link to my LinkedIn and Resume.
